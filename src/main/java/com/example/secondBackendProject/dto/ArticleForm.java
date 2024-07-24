@@ -2,6 +2,7 @@ package com.example.secondBackendProject.dto;
 
 import com.example.secondBackendProject.entity.Article;
 import lombok.AllArgsConstructor;
+import lombok.Getter;
 import lombok.ToString;
 
 @AllArgsConstructor
